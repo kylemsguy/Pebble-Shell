@@ -1,7 +1,7 @@
 {
     "longName": "Pebble Terminal",
     "companyName": "KeepFlying",
-    "versionLabel": "1.2.2",
+    "versionLabel": "1.2",
     "watchapp": {
         "watchface": true
     },
@@ -22,7 +22,7 @@
     },
     "uuid": "307b9128-8bb3-41d9-a21b-1416b7f40942",
     "capabilities": [
-        ""
+        "configurable"
     ],
     "shortName": "Pebble Terminal",
     "versionCode": 1
